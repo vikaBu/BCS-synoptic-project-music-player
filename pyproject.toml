@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "music-player-python"
+version = "0.1.0"
+description = ""
+authors = ["Viktorija Buklajeva <viktorija.buklajeva@zoopla.co.uk>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+black = "^21.9b0"
+flake8 = "^4.0.1"
+mypy = "^0.910"
+make = "^0.1.6"
+isort = "^5.9.3"
+pygame = "^2.0.2"
+tk-tools = "^0.14.0"
+mutagen = "^1.45.1"
+ttkthemes = "^3.2.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
