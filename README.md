@@ -35,3 +35,7 @@ make mypy - run mypy on Viks-music-player and tests
 
 ##User interface design 
 ![image](UI/ui.png)
+
+##Music Player
+![image](UI/appy.png)
+
