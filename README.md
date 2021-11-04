@@ -28,13 +28,26 @@ make mypy - run mypy on Viks-music-player and tests
 
 ```
 
-##to run app:
+## To run app:
 ```python3 main.py```
 
 
-##User interface design 
+## User interface design 
+
 ![image](UI/ui.png)
 
-##Music Player
+## Music Player
 ![image](UI/appy.png)
 
+
+## REQUIREMENTS
+
+* The Music player must:
+    * Allow music playback. 
+    * Allow music playback when the device becomes idle. The device will automatically
+      switch to idle mode to save power if no user interaction is recorded over a 30 second period
+    * Have user control over playback
+    * Have a random shuffle function
+    * Allow for a Creation of a song play list
+    * Have a search option for audio files within a media database
+    * List display options by song track or album
