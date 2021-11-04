@@ -34,4 +34,4 @@ make mypy - run mypy on Viks-music-player and tests
 
 
 ##User interface design 
-![Alt text](/UI/ui.png?raw=true "Inital design")
+![Alt text](synoptic-project/UI/ui.png?raw=true "Inital design")
