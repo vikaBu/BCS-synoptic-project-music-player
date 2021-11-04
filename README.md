@@ -28,6 +28,6 @@ make mypy - run mypy on Viks-music-player and tests
 
 ```
 
-to run app:
-cd Viks-Music-Player
+##to run app:
+```cd Viks-Music-Player```
 ```python3 main.py```
